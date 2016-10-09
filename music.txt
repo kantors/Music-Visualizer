@@ -1,0 +1,4 @@
+For this project, I wanted to create a visualization based on the amplitude of the 
+different frequencies of a song. My code essentially creates an array of points 
+and assigns each point a frequency. The amplitude of each frequency determines how 
+long the lines are. 
